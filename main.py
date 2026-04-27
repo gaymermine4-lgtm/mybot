@@ -1,4 +1,4 @@
-iimpot telebot
+impot telebot
 from telebot import types
 
 # Sizning yangi tokeningiz
